@@ -38,7 +38,7 @@ The progress can be observed in the message box at the bottom.
 As a result of running _Compiler->Compile_, LLVM IR will appear in the _compiler IR code_ tab and the detected instances will appear in the _detection results_ tab.
 By default, the program will look for reductions, histograms and matrix multiplications.
 
-![Screenshot of IDL GUI](https://github.com/cc18ginsbach/CAnDL-Demo/raw/master/idl_gui_screenshot.jpg?raw=true "IDL GUI")
+![Screenshot of IDL GUI](https://github.com/cc18ginsbach/CAnDL-Demo/raw/master/idl_gui_screenshot.png?raw=true "IDL GUI")
 
 ## Contact
 
